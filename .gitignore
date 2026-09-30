@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.env
+*.pth
+*.pt
+*.ckpt
+dinov2_local/
+GroundedSam/
+weight/
+inference/result/
+scripts/.git.backup/
